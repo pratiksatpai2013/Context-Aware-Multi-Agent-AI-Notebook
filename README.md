@@ -1,6 +1,6 @@
 # Context-Aware Multi-Agent AI System 🚀
 
-This repo contains code for a **context-aware, modular multi-agent system** built using **Nomic Embeddings**, **FAISS**, **LangChain**, and **Google Gemini LLM**, based on the tutorial published on MarkTechPost (July 27, 2025).
+This repo contains code for a **context-aware, modular multi-agent system** built using **Nomic Embeddings**, **FAISS**, **LangChain**, and **Google Gemini LLM**
 
 ## 🎯 Overview
 
